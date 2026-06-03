@@ -17,17 +17,22 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 
 **Réseaux & Sécurité**
 
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0a0f0a?style=flat-square&logo=cisco&logoColor=22c55e)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a0f0a?style=flat-square&logo=wireshark&logoColor=22c55e)
-![Linux](https://img.shields.io/badge/Linux-0a0f0a?style=flat-square&logo=linux&logoColor=22c55e)
+[![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0a0f0a?style=flat-square&logo=cisco&logoColor=22c55e)](https://www.netacad.com/courses/packet-tracer)
+[![Wireshark](https://img.shields.io/badge/Wireshark-0a0f0a?style=flat-square&logo=wireshark&logoColor=22c55e)](https://www.wireshark.org/docs/)
+[![Linux](https://img.shields.io/badge/Linux-0a0f0a?style=flat-square&logo=linux&logoColor=22c55e)](https://www.kernel.org/doc/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-0a0f0a?style=flat-square&logo=ubuntu&logoColor=22c55e)](https://ubuntu.com/tutorials)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a0f0a?style=flat-square&logo=kalilinux&logoColor=22c55e)](https://www.kali.org/docs/)
+[![Windows](https://img.shields.io/badge/Windows-0a0f0a?style=flat-square&logo=windows&logoColor=22c55e)](https://learn.microsoft.com/fr-fr/windows/)
 
 **Outils**
 
 [![Git](https://img.shields.io/badge/Git-0a0f0a?style=flat-square&logo=git&logoColor=22c55e)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0f0a?style=flat-square&logo=github&logoColor=22c55e)](https://docs.github.com)
 [![GitLab](https://img.shields.io/badge/GitLab-0a0f0a?style=flat-square&logo=gitlab&logoColor=22c55e)](https://docs.gitlab.com)
+[![Docker](https://img.shields.io/badge/Docker-0a0f0a?style=flat-square&logo=docker&logoColor=22c55e)](https://docs.docker.com)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-0a0f0a?style=flat-square&logo=virtualbox&logoColor=22c55e)](https://www.virtualbox.org/wiki/Documentation)
+[![VS Code](https://img.shields.io/badge/VS_Code-0a0f0a?style=flat-square&logo=visualstudiocode&logoColor=22c55e)](https://code.visualstudio.com/docs)
 [![WordPress](https://img.shields.io/badge/WordPress-0a0f0a?style=flat-square&logo=wordpress&logoColor=22c55e)](https://wordpress.org/documentation/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0a0f0a?style=flat-square&logo=visual-studio-code&logoColor=22c55e)](https://code.visualstudio.com/docs)
 
 **Certifications**
 
