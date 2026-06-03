@@ -27,8 +27,7 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 [![GitHub](https://img.shields.io/badge/GitHub-0a0f0a?style=flat-square&logo=github&logoColor=22c55e)](https://docs.github.com)
 [![GitLab](https://img.shields.io/badge/GitLab-0a0f0a?style=flat-square&logo=gitlab&logoColor=22c55e)](https://docs.gitlab.com)
 [![WordPress](https://img.shields.io/badge/WordPress-0a0f0a?style=flat-square&logo=wordpress&logoColor=22c55e)](https://wordpress.org/documentation/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0a0f0a?style=flat-square&logo=visualstudiocode&logoColor=22c55e)](https://code.visualstudio.com/docs)
-
+[![VS Code](https://img.shields.io/badge/VS_Code-0a0f0a?style=flat-square&logo=visualstudio&logoColor=22c55e)](https://code.visualstudio.com/docs)
 **Certifications**
 
 ![PIX](https://img.shields.io/badge/✓_PIX-22c55e?style=flat-square&logoColor=0a0f0a&color=22c55e&labelColor=0a0f0a)
