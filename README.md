@@ -38,7 +38,7 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-po8023as8-timeo-s-projects1.vercel.app/api/top-langs/?username=Tim29800&layout=compact&bg_color=0a0f0a&title_color=22c55e&text_color=86a88a&border_color=1a2e1a&v=2" />
+  <img height="160" src="https://github-readme-stats-rho-six-64.vercel.app/api?username=Tim29800&show_icons=true&bg_color=0a0f0a&title_color=22c55e&text_color=86a88a&icon_color=22c55e&border_color=1a2e1a&count_private=true" />
 </p>
 
 <p align="center">
