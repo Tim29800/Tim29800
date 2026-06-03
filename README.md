@@ -38,12 +38,12 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tim29800&show_icons=true&theme=chartreuse-dark&bg_color=0a0f0a&title_color=22c55e&text_color=86a88a&icon_color=22c55e&border_color=1a2e1a&hide_border=false&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim29800&layout=compact&theme=chartreuse-dark&bg_color=0a0f0a&title_color=22c55e&text_color=86a88a&border_color=1a2e1a&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tim29800&show_icons=true&bg_color=0a0f0a&title_color=22c55e&text_color=86a88a&icon_color=22c55e&border_color=1a2e1a&count_private=true&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim29800&layout=compact&bg_color=0a0f0a&title_color=22c55e&text_color=86a88a&border_color=1a2e1a&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tim29800&theme=dark&background=0a0f0a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=86a88a&dates=4a6b4e&border=1a2e1a" />
+  <img src="https://streak-stats.demolab.com/?user=Tim29800&theme=dark&background=0a0f0a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=86a88a&dates=4a6b4e&border=1a2e1a" />
 </p>
 
 ---
