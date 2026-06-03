@@ -4,7 +4,7 @@
 
 Passionné par les réseaux, la cybersécurité et le développement. Actuellement en 2ᵉ année de BTS CIEL spécialité Informatique et Réseaux au lycée Vauban (Brest), en partenariat avec la Marine nationale au CIN de Brest.
 
----
+--- 
 
 ## 🛠️ Compétences techniques
 
