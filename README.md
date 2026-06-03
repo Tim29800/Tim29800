@@ -11,9 +11,9 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 **Langages**
 
 [![Python](https://img.shields.io/badge/Python-0a0f0a?style=flat-square&logo=python&logoColor=22c55e)](https://www.python.org/doc/)
-![C++](https://img.shields.io/badge/C++-0a0f0a?style=flat-square&logo=cplusplus&logoColor=22c55e)
-![Shell](https://img.shields.io/badge/Shell_Script-0a0f0a?style=flat-square&logo=gnubash&logoColor=22c55e)
-![SQL](https://img.shields.io/badge/SQL-0a0f0a?style=flat-square&logo=postgresql&logoColor=22c55e)
+[![C++](https://img.shields.io/badge/C++-0a0f0a?style=flat-square&logo=cplusplus&logoColor=22c55e)](https://cppreference.com)
+[![Shell](https://img.shields.io/badge/Shell_Script-0a0f0a?style=flat-square&logo=gnubash&logoColor=22c55e)](https://www.gnu.org/software/bash/manual/)
+[![SQL](https://img.shields.io/badge/SQL-0a0f0a?style=flat-square&logo=postgresql&logoColor=22c55e)](https://www.postgresql.org/docs/)
 
 **Réseaux & Sécurité**
 
@@ -23,10 +23,11 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 
 **Outils**
 
-![Git](https://img.shields.io/badge/Git-0a0f0a?style=flat-square&logo=git&logoColor=22c55e)
-![GitHub](https://img.shields.io/badge/GitHub-0a0f0a?style=flat-square&logo=github&logoColor=22c55e)
-![WordPress](https://img.shields.io/badge/WordPress-0a0f0a?style=flat-square&logo=wordpress&logoColor=22c55e)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0f0a?style=flat-square&logo=visualstudiocode&logoColor=22c55e)
+[![Git](https://img.shields.io/badge/Git-0a0f0a?style=flat-square&logo=git&logoColor=22c55e)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0f0a?style=flat-square&logo=github&logoColor=22c55e)](https://docs.github.com)
+[![GitLab](https://img.shields.io/badge/GitLab-0a0f0a?style=flat-square&logo=gitlab&logoColor=22c55e)](https://docs.gitlab.com)
+[![WordPress](https://img.shields.io/badge/WordPress-0a0f0a?style=flat-square&logo=wordpress&logoColor=22c55e)](https://wordpress.org/documentation/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0a0f0a?style=flat-square&logo=visualstudiocode&logoColor=22c55e)](https://code.visualstudio.com/docs)
 
 **Certifications**
 
