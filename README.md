@@ -65,7 +65,7 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 ## 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/timeobg29@gmail.com-0a0f0a?style=flat-square&logo=gmail&logoColor=22c55e)](mailto:timeobg29@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f0a?style=flat-square&logo=githubpages&logoColor=22c55e)](https://Tim29800.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f0a?style=flat-square&logo=githubpages&logoColor=22c55e)]<!--(https://Tim29800.github.io)-->
 
 ---
 
