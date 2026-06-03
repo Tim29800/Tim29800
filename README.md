@@ -10,7 +10,7 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 
 **Langages**
 
-![Python](https://img.shields.io/badge/Python-0a0f0a?style=flat-square&logo=python&logoColor=22c55e)
+![Python](https://docs.python.org/fr/3/)
 ![C++](https://img.shields.io/badge/C++-0a0f0a?style=flat-square&logo=cplusplus&logoColor=22c55e)
 ![Shell](https://img.shields.io/badge/Shell_Script-0a0f0a?style=flat-square&logo=gnubash&logoColor=22c55e)
 ![SQL](https://img.shields.io/badge/SQL-0a0f0a?style=flat-square&logo=postgresql&logoColor=22c55e)
