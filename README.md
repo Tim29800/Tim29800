@@ -1,6 +1,6 @@
 # Hey, moi c'est Timéo 👋
 
-**Administrateur / Technicien Réseau · BTS CIEL IR · Parcours Marine — CIN de Brest**
+**Administrateur / Technicien Réseau · BTS CIEL IR**
 
 Passionné par les réseaux, la cybersécurité et le développement. Actuellement en 2ᵉ année de BTS CIEL spécialité Informatique et Réseaux au lycée Vauban (Brest).
 
